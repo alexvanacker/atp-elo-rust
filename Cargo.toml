@@ -1,0 +1,6 @@
+[package]
+name = "atp-elo"
+version = "0.1.0"
+authors = ["Alexis Vanacker <alexis.vanacker@concordnow.com>"]
+
+[dependencies]
